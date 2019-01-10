@@ -1,0 +1,60 @@
+# ===================================== #
+# Carpetas de Unity
+# ===================================== #
+Temp
+Library
+Obj
+obj
+ 
+# ===================================== #
+# Visual Studio / MonoDevelop 
+# ===================================== #
+ExportedObj/
+*.svd
+*.userprefs
+*.csproj
+*.pidb
+*.suo
+*.sln
+*.user
+*.unityproj
+*.booproj
+ 
+# ===================================== #
+# OS 
+# ===================================== #
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+Icon?
+ehthumbs.db
+Thumbs.db
+.AppleDouble
+.LSOverride
+ 
+# Instaladores de Windows
+*.cab
+*.msi
+*.msm
+*.msp
+ 
+# Configurador de carpetas
+Desktop.ini
+ 
+# Papelera de reciclaje utilizada en archivos compartidos
+$RECYCLE.BIN/
+ 
+# ===================================== #
+# Personalizados
+# ===================================== #
+# Relacionado con el Proyecto
+Assets/_Content/GUI
+ 
+# COPYRIGHTED / ASSET STORE
+{Carpeta proyecto}/Assets/ThirdParty/*
+{Carpeta proyecto}/Assets/ThirdParty.meta
+ 
+# GITEYE
+*.project
